@@ -1,3 +1,7 @@
 {
-  "keys":["test"]
+    "alarm": true,
+    "sgv": 58,
+    "direction": "SingleDown",
+    "date": 1785520860000,
+    "message": "Hipoglisemi riski!"
 }
